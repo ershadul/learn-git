@@ -1,4 +1,4 @@
 - you should always fetch latest master/main branch
-- you should already rebase your feature branch to latest master branch before creating a PR
+- you should always rebase your feature branch to latest master branch before creating a PR
 - you should always test a PR before merging it
 
